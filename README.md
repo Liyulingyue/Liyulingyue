@@ -12,6 +12,23 @@
 - ⌨️ 持续活跃在 [AiStudio](https://aistudio.baidu.com/personalcenter/thirdview/608082)，分享自己的开发内容。
 - 👯 欢迎合作和贡献开源项目。
 
+## 技术栈
+
+<p align="left">
+   <img alt="Python" src="https://img.shields.io/badge/Python-3572a5?style=flat-square&logo=python&logoColor=white">
+   <img alt="PaddlePaddle" src="https://img.shields.io/badge/PaddlePaddle-4A66EB?style=flat-square&logo=PaddlePaddle&logoColor=white">
+   <img alt="C++" src="https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=c%2b%2b">
+   <img alt="C" src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c">
+   <img alt="Raspberry Pi Pico" src="https://img.shields.io/badge/Raspberry Pi Pico-EB2A83?style=flat-square&logo=RaspberryPi">
+</p>
+
+## 开发环境
+
+<p align="left">
+   <img alt="Windows" src="https://img.shields.io/badge/Windows-5CB8EB?style=flat-square&logo=windows&logoColor=white">
+   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-EBE843?style=flat-square&logo=PyCharm&logoColor=white">
+</p>
+
 ## 我的项目
 
 这里是一些我正在开发的项目：
