@@ -1,32 +1,42 @@
-# Hi there, I'm Liyulingyue! 👋
+## 你好！👋
 
-Welcome to my GitHub profile! I'm passionate about coding and always eager to learn and collaborate on exciting projects.
+我是Liyulingyue，一个慵懒的开发者。欢迎来到我的GitHub主页！
 
-## About Me
+## 关于我
 
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced programming techniques.
-- 💬 Ask me about anything related to coding and technology.
-- 📫 How to reach me: [liyulingyue@example.com](mailto:liyulingyue@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing strategy games.
+- 🔭 目前正在研究和开发各种有趣的项目。
+- 🌱 热衷于学习新技术和提升编程技能。
+- 👯 欢迎合作和贡献开源项目。
+- 💬 如果你有任何问题或合作意向，请随时联系我。
 
-## GitHub Stats
+## Github 状态
 
 ![Liyulingyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liyulingyue&show_icons=true&theme=radical)
 
-## Top Languages
+## 编程语言
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liyulingyue&layout=compact&theme=radical)
 
-## Projects
+## 我的项目
 
-Here are some of the projects I've been working on:
+这里是一些我正在开发的项目：
 
-- [Desktop-pet with Raspberry Pi Pico](https://github.com/Liyulingyue/project1) - A brief description of project 1.
+1. **项目名称 1**
+   - 简介: 这是一个关于xxxx的项目。
+   - 功能: 提供xxxx功能。
+   - [查看项目](https://github.com/Liyulingyue/project1)
 
-## Get in Touch
+2. **项目名称 2**
+   - 简介: 这是一个关于xxxx的项目。
+   - 功能: 提供xxxx功能。
+   - [查看项目](https://github.com/Liyulingyue/project2)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/liyulingyue) or follow me on [Twitter](https://twitter.com/liyulingyue).
 
-Looking forward to collaborating with you!
+## 我的技能
+
+- **编程语言:** Python, JavaScript, Java, C++
+- **框架和库:** React, Node.js, Spring Boot, Django
+- **数据库:** MySQL, MongoDB, PostgreSQL
+- **工具和平台:** Docker, Kubernetes, AWS, Git
+
+感谢你的访问！希望你能喜欢我的项目和分享的内容。
