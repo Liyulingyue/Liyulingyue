@@ -23,9 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 
 Here are some of the projects I've been working on:
 
-- [Project 1](https://github.com/Liyulingyue/project1) - A brief description of project 1.
-- [Project 2](https://github.com/Liyulingyue/project2) - A brief description of project 2.
-- [Project 3](https://github.com/Liyulingyue/project3) - A brief description of project 3.
+- [Desktop-pet with Raspberry Pi Pico](https://github.com/Liyulingyue/project1) - A brief description of project 1.
 
 ## Get in Touch
 
