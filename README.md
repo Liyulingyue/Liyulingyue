@@ -7,7 +7,7 @@
 ## 关于我
 
 - 🎂 1996年出生。
-- 🧑‍🎓 2022年毕业于武汉某学校，研究方向为群优化算法。
+- 🧑‍🎓 2022年毕业于武汉某校，研究方向为群优化算法。
 - 🚣‍♂ 飞桨开发者技术专家，PaddlePaddle 仓库 Committer，给 Paddle 仓库提供了一些代码贡献。
 - ⌨️ 持续活跃在 [AiStudio](https://aistudio.baidu.com/personalcenter/thirdview/608082)，分享自己的开发内容。
 - 👯 欢迎合作和贡献开源项目。
