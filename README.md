@@ -33,9 +33,9 @@
 
 这里是一些我正在开发的项目：
 
-1. [desktop-pet](https://github.com/datawhalechina/desktop-pet)
-   - 这是一个基于 Raspberry Pi Pico 构建简易桌面宠物的项目，非常适合对硬件一无所知的软件开发者进行硬件入门。
-     ![](https://github.com/datawhalechina/desktop-pet/blob/main/Docs/Images/01_SimplestDemo/DesktopPet_demo.jpg)
+1. [DrawSomethingAIPlatform](https://github.com/Liyulingyue/DrawSomethingAIPlatform)
+   - 这是一个你画AI猜的小游戏，进入游戏后，你需要绘制指定词语对应的画面，AI猜中即过关。部署后，PAD竖屏使用可以获得最佳体验。
+   ![](Images/DrawingAIPlatformDEMO.png)
 
 2. [PaddleGames](https://github.com/Liyulingyue/PaddleGames)
    - 这是我很早之前开启的仓库，后来逐渐遗忘和放置了。该仓库希望构建一整套基于深度学习的小游戏。
